@@ -13,7 +13,7 @@ In this tutorial, you’ll learn:
 * How to print or read a date and time in a specific format
 * How to do arithmetic with dates and times
 
-### 1. What is Pandas Time Module?
+### 2. What is Pandas Time Module?
 The Python time module provides many ways of representing time in code, such as objects, numbers, and strings. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.
 
 This article will walk you through the most commonly used functions and objects in time.
