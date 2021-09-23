@@ -74,7 +74,7 @@ Go [**`here`**](https://github.com/milaan9/08_Python_Date_Time_Module) if you ar
 
 ---
 
-### How can I read this tutorial without an Internet connection? 🤔
+### How can I read this tutorial without an Internet connection? <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" />
 
 1. Go [**`here`**](https://github.com/milaan9/08_Python_Date_Time_Module) and click the big green ➞ **`Code`** button in the top right of the page, then click ➞ [**`Download ZIP`**](https://github.com/milaan9/08_Python_Date_Time_Module/archive/refs/heads/main.zip).
 
